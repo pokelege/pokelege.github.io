@@ -1,3 +1,5 @@
 .vs/
 *.iml
 .idea/
+Web.config
+*.sln
