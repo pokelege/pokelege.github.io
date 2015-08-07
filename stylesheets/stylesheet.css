@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    background: #151515 url("../images/bkg.png") 0 0;
+    background: #151515 url("http://puu.sh/jtgKI.png") 0 0;
     color: #eaeaea;
     font: 16px;
     line-height: 1.5;
@@ -70,6 +70,20 @@ header {
     display: inline-block;
     text-align: center;
     margin: 0;
+}
+
+#contact {
+    text-align:right;
+}
+
+#contact .btn {
+    text-align: center;
+    margin: 0;
+}
+
+
+#Navigation {
+    text-align:left;
 }
 
 /* Main Content
@@ -216,7 +230,7 @@ hr {
 
 .btn-github .icon {
     opacity: 0.6;
-    background: url("../images/blacktocat.png") 0 0 no-repeat;
+    background: url("http://puu.sh/jtgKy.png") 0 0 no-repeat;
 }
 
 /* Links
